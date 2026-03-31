@@ -1,0 +1,12 @@
+{
+  "name": "playwright-cli",
+  "version": "0.1.2",
+  "description": "Automate browser interactions, test web pages and work with Playwright tests.",
+  "author": {
+    "name": "Microsoft Corporation"
+  },
+  "repository": "https://github.com/microsoft/playwright-cli",
+  "homepage": "https://playwright.dev",
+  "license": "Apache-2.0",
+  "keywords": ["playwright", "browser", "automation", "testing"]
+}
