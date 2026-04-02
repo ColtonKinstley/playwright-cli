@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "playwright-cli",
-      "source": "..",
+      "source": ".",
       "description": "Automate browser interactions, test web pages and work with Playwright tests.",
       "version": "0.1.4",
       "author": {
