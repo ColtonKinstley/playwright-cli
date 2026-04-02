@@ -1,0 +1,24 @@
+{
+  "name": "playwright-cli",
+  "owner": {
+    "name": "Microsoft Corporation"
+  },
+  "metadata": {
+    "description": "Automate browser interactions, test web pages and work with Playwright tests.",
+    "version": "0.1.4"
+  },
+  "plugins": [
+    {
+      "name": "playwright-cli",
+      "source": "..",
+      "description": "Automate browser interactions, test web pages and work with Playwright tests.",
+      "version": "0.1.4",
+      "author": {
+        "name": "Microsoft Corporation"
+      },
+      "homepage": "https://playwright.dev",
+      "license": "Apache-2.0",
+      "category": "browser-automation"
+    }
+  ]
+}
